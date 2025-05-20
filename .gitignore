@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# macOS
+.DS_Store
+
+# VS Code 설정 폴더
+.vscode/
+
 # C extensions
 *.so
 
@@ -135,6 +141,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Y-FoRM/
 
 # Spyder project settings
 .spyderproject
